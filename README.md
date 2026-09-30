@@ -48,6 +48,16 @@ Preparar muchas fotografías de productos suele requerir eliminar fondos, recort
 
 La primera configuración necesita internet para descargar las dependencias y el modelo. La aplicación comprueba el entorno automáticamente; no exige activar manualmente un entorno virtual.
 
+## 📸 Ejemplo de Procesamiento (Antes y Después)
+
+El programa procesa las fotografías por lotes y genera las carpetas de salida automáticas:
+
+| 1. Foto Original (Entrada) | 2. Carpeta `/PNGs` (Transparencia) | 3. Carpeta `/Limpias` (JPG Fondo Blanco) |
+| :---: | :---: | :---: |
+| ![Original](./assets/20012%20(4)%20Sucia.JPG) | ![PNG Transparente](./assets/20012%20(4).png) | ![JPG Limpio](./assets/20012%20(4).jpg) |
+
+> **Nota:** El algoritmo recorta el objeto respetando bordes complejos y añade un margen uniforme de 20px sobre fondo blanco puro.
+
 ## Entradas y resultados
 
 | Elemento | Descripción |
