@@ -176,7 +176,7 @@ La publicación comercial, el precio, las condiciones de uso y el canal de sopor
 
 
 
-**© 2026 Fotos Limpias. Todos los derechos reservados.**
+**© 2026 Lucidglasses. Todos los derechos reservados.**
 
 
 
