@@ -152,10 +152,6 @@ La implementación incluye interfaz gráfica, preparación del entorno, procesam
 
 
 
-Las pruebas de eliminación de fondo emplearon una salida de Lucida simulada. La inferencia real, la interfaz en Windows y el ejecutable generado están pendientes de validación en un equipo Windows. La documentación describe la implementación disponible; no acredita una versión de producción ya validada.
-
-
-
 La precisión de la eliminación de fondo depende de la imagen y del modelo. Los resultados deben revisarse, especialmente en objetos transparentes, bordes finos o fondos complejos. La velocidad depende del procesador, la memoria y la cantidad de fotografías. El programa no aplica un límite de peso en KB a los JPG exportados.
 
 
